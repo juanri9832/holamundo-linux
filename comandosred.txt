@@ -1,0 +1,14 @@
+1  whoami
+    2  pwd
+    3  ls
+    4  mkdir folder
+    5  ls
+    6  ping google.com
+    7  curl ifconfig.me
+    8  nslookup
+    9  tracepath
+   10  tracepath google.com
+   11  q
+   12  ss -tuln~
+   13  ss -tuln
+   14  history
